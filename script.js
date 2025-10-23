@@ -48,3 +48,5 @@ window.addEventListener("resize", () => {
   canvas.height = window.innerHeight;
   canvas.width = window.innerWidth;
 });
+
+<script src="https://cdn.counter.dev/script.js" data-id="8c881ef9-1404-426a-bfd5-4d07720483fd" data-utcoffset="7"></script>
